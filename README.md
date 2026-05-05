@@ -44,3 +44,4 @@ L'application fournit plusieurs endpoints REST :
 - `POST http://localhost:8080/NetworkManagement/network-management/configurations` : Crée une nouvelle configuration.
 - `PUT http://localhost:8080/NetworkManagement/network-management/configurations/{id}` : Met à jour une configuration existante.
 - `DELETE http://localhost:8080/NetworkManagement/network-management/configurations/{id}` : Supprime une configuration existante.
+
